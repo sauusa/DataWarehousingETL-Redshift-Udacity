@@ -2,14 +2,14 @@
 Data Warehousing project for Udacity: Build an ETL pipeline, which pulls the data from S3 bucket (JSON files) and keeps in Redshift Staging tables. Then create analytics tables by copying data from staging tables. Python is the base, AWS resource are used.
 
 
-# >>>>>>>>>>P R O J E C T : D a t a W a r e h o u s e<<<<<<<
+# P R O J E C T : D a t a W a r e h o u s e
 
-## >>>>>>>>>>>Objetive<<<<<<<<<<
+## Objetive
 
    Create an ETL pipeline to move the data and processes to cloud, from existing S3 JSON files.
    
    
-## >>>>>>>>>>>Instructions<<<<<<<<<<
+## Instructions
 
 > Create table schemas
 
@@ -71,7 +71,7 @@ Data Warehousing project for Udacity: Build an ETL pipeline, which pulls the dat
   ### Step 7:
     Delete the Redshift cluster once the ETL process is completed.
     
-## >>>>>>>>>>> N o t e s <<<<<<<<<<
+## N o t e s 
 
 Open DWH-Workbook.ipynb and follow the sequence 
 Create a Cluster, only if it does not exists
